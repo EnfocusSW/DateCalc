@@ -1,0 +1,13 @@
+
+<Manifest>
+    <ScripterInstanceName>DateCalc</ScripterInstanceName>
+    <ScriptPackageFormatVersion>1.0</ScriptPackageFormatVersion>
+    <ScriptPasswordProtected>No</ScriptPasswordProtected>
+    <ScriptPackageType>Script</ScriptPackageType>
+    <ScriptDeclarationFile>DateCalc.xml</ScriptDeclarationFile>
+    <ScriptProgramFiles>
+        <ScriptProgramFile ScriptLanguage="NodeJSScript">main.ts</ScriptProgramFile>
+    </ScriptProgramFiles>
+    <ScriptIconFile>DateCalc.png</ScriptIconFile>
+    <LocalizationItems/>
+</Manifest>
